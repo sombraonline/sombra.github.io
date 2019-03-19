@@ -1,0 +1,16 @@
+
+15 lines (13 sloc) 492 Bytes
+<!DOCTYPE html>
+<html>
+<head>
+<title>orisa.online</title>
+</head>
+
+<body><center><br><br><br><br><br><br><br><br><br>
+	<body style="background-color:#97ab40;">
+	<div id="center-container">
+		<img src="https://i.imgur.com/5QBMYDp.png" id="center-image" onclick="Orisa()">
+		<audio id="OrisaOnlineLoop" src="https://raw.githubusercontent.com/superphrenic/superphrenic.github.io/master/OrisaOnlineLoop.mp3" audio autoplay="play" hidden="true" audio loop="loop"></audio>
+		</div>
+</body>
+</html>
